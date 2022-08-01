@@ -12,6 +12,6 @@ if ($mysql->connect_errno){
 } else{
     echo('sucesso');
 }
-Senha do banco: syzwm&3Vv#2~IfF9 alda-monique-sistema-de-acesso
+
  */
 ?>
